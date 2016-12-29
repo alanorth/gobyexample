@@ -4,6 +4,7 @@ Working my way through the Golang tutorial at [gobyexample.com](https://gobyexam
 1. Hello World
 2. Values
 3. Variables
+4. Constants
 
 ## Running
 To run the code snippets you need to have [Golang](https://golang.org) installed, and then you can use `go run` and `go build` to execute the code. For example:
