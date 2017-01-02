@@ -8,6 +8,7 @@ Working my way through the Golang tutorial at [gobyexample.com](https://gobyexam
 5. For
 6. If/Else
 7. Switch
+8. Arrays
 
 ## Running
 To run the code snippets you need to have [Golang](https://golang.org) installed, and then you can use `go run` and `go build` to execute the code. For example:
